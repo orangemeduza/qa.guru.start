@@ -6,6 +6,6 @@ public class FirstTest {
 
     @Test
     void openSite1(){
-        open("https://demoqa.com/text-box");
+        open("https://demoqa.com/text-box2");
     }
 }
